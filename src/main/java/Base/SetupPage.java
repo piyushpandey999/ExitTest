@@ -34,17 +34,6 @@ public class SetupPage {
     public String username;
     public String password;
 
-
-    @BeforeTest
-    public void ExcelData() {
-        ReadExeclData excel = new ReadExeclData(System.getProperty("user.dir") + "\\src\\main\\resources\\Data.xlsx");
-        Map<String, String> data = excel.getData();
-        for (String k : data.keySet()) {
-            username = k;
-            password = data.get(k);
-        }
-    }
-
     @BeforeClass
     public void initializeBrowser() {
 
@@ -139,6 +128,15 @@ public class SetupPage {
         test = extent.startTest(method.getName());
     }
 
+    @BeforeMethod
+    public void data() {
+        ReadExeclData excel = new ReadExeclData(System.getProperty("user.dir") + "\\src\\main\\resources\\Data.xlsx");
+        Map<String, String> data = excel.getData();
+        for (String k : data.keySet()) {
+            username = k;
+            password = data.get(k);
+        }
+    }
 
     @AfterMethod
     public void afterMethod(ITestResult result) throws IOException {

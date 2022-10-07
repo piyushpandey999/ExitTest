@@ -19,7 +19,7 @@ public class CareerPage {
     // ----------- Element ------------
     @FindBy(how = How.XPATH,using = "//a[contains(text(),'Careers')]")
     WebElement career;
-    @FindBy(how = How.XPATH,using = "//body/div[1]/div[4]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/form[1]/div[1]/div[1]/span[1]/button[1]/img[1]")
+    @FindBy(how = How.XPATH,using = "//body/div[1]/div[4]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]/div[2]/form[1]/div[1]/div[1]/span[1]/button[1]")
     WebElement jobs;
     public CareerPage(WebDriver driver){
         PageFactory.initElements(driver,this);

@@ -28,10 +28,11 @@ public class DownloadAppPage {
     // ----------- method to go to the download page to download the app ------------------
     public void clickDownload() throws InterruptedException {
         cross.click();
-        // ------- Instantiating Actions class ------------
+        // ------- Instantiating Actions class -------------
         Actions actions = new Actions(driver);
         actions.moveToElement(menu).build().perform();
-        // ------- To mouseover on sub menu ---------------
+        TimeUnit.SECONDS.sleep(2);
+        // ------- To mouseover on sub menu -------------------
         actions.moveToElement(download).click().build().perform();
     }
 }

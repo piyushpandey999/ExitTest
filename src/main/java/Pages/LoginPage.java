@@ -28,9 +28,6 @@ public class LoginPage {
 
     // ----------- method to do a valid login -----------
     public void validlogin(String username, String password) {
-//        email.sendKeys("thenotoriousbalor@gmail.com");
-//        password.sendKeys("thephoenix999");
-//        submtBtn.click();
         Common.sendKeysToElement(email,username);
         Common.sendKeysToElement(Password,password);
         Common.clickOnElement(submtBtn);

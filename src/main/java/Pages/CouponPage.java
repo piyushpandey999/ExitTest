@@ -27,6 +27,7 @@ public class CouponPage {
         Actions actions = new Actions(driver);
         TimeUnit.SECONDS.sleep(2);
         actions.moveToElement(profile).build().perform();
+        TimeUnit.SECONDS.sleep(1);
         actions.moveToElement(coupons).click().build().perform();
     }
 }
