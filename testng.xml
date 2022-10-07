@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/Exit-Test/ExitTest">
+        <classes>
+            <class name="TestCases.AboutUs">
+                <methods>
+                    <include name="aboutUs"/>
+                </methods>
+            </class>
+            <class name="TestCases.AddToCart">
+                <methods>
+                    <include name="Login"/>
+                    <include name="AddItemToCart"/>
+                </methods>
+            </class>
+            <class name="TestCases.Advertise">
+                <methods>
+                    <include name="clickCross"/>
+                    <include name="goToAdvertise"/>
+                </methods>
+            </class>
+            <class name="TestCases.BecomeSeller">
+                <methods>
+                    <include name="login"/>
+                    <include name="becomeSeller"/>
+                </methods>
+            </class>
+            <class name="TestCases.Career">
+                <methods>
+                    <include name="clickCross"/>
+                    <include name="career"/>
+                </methods>
+            </class>
+            <class name="TestCases.Carousel">
+                <methods>
+                    <include name="carousel"/>
+                </methods>
+            </class>
+            <class name="TestCases.Cart">
+                <methods>
+                    <include name="goToCart"/>
+                </methods>
+            </class>
+            <class name="TestCases.Coupons">
+                <methods>
+                    <include name="logIn"/>
+                    <include name="goToCoupons"/>
+                </methods>
+            </class>
+            <class name="TestCases.DownloadApp">
+                <methods>
+                    <include name="download"/>
+                </methods>
+            </class>
+            <class name="TestCases.FailedTest">
+                <methods>
+                    <include name="failed"/>
+                </methods>
+            </class>
+            <class name="TestCases.FlipkartPlus">
+                <methods>
+                    <include name="goToFlipkartPlus"/>
+                </methods>
+            </class>
+            <class name="TestCases.InvalidLogin">
+                <methods>
+                    <include name="invalidLogin"/>
+                </methods>
+            </class>
+            <class name="TestCases.LogOut">
+                <methods>
+                    <include name="logIn"/>
+                    <include name="logOut"/>
+                </methods>
+            </class>
+            <class name="TestCases.Login">
+                <methods>
+                    <include name="login"/>
+                </methods>
+            </class>
+            <class name="TestCases.Mobiles">
+                <methods>
+                    <include name="clickMobiles"/>
+                </methods>
+            </class>
+            <class name="TestCases.MyProfile">
+                <methods>
+                    <include name="login"/>
+                    <include name="goToMyProfile"/>
+                </methods>
+            </class>
+            <class name="TestCases.RemoveFromCart">
+                <methods>
+                    <include name="login"/>
+                    <include name="removeItemFromCart"/>
+                </methods>
+            </class>
+            <class name="TestCases.Search">
+                <methods>
+                    <include name="search"/>
+                </methods>
+            </class>
+            <class name="TestCases.SignIn">
+                <methods>
+                    <include name="signIn"/>
+                </methods>
+            </class>
+            <class name="TestCases.Travel">
+                <methods>
+                    <include name="travel"/>
+                </methods>
+            </class>
+            <class name="TestCases.Wishlist">
+                <methods>
+                    <include name="logIn"/>
+                    <include name="goTOWishlist"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

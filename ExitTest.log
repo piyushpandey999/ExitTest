@@ -1,0 +1,308 @@
+2022-10-06 19:54:10,596  INFO [main] SetupPage:40 - getting browser name from properties file
+2022-10-06 19:54:10,596  INFO [main] SetupPage:42 - getting mode from properties file
+2022-10-06 19:54:10,596  INFO [main] SetupPage:50 - run tests in non-headless mode
+2022-10-06 19:54:10,597  INFO [main] SetupPage:54 - opening  chrome browser
+2022-10-06 19:54:11,702  INFO [main] SetupPage:112 - maximizing the window
+2022-10-06 19:54:11,817  INFO [main] SetupPage:116 - deleting the cookies
+2022-10-06 19:54:11,820  INFO [main] SetupPage:121 - open the base url
+2022-10-06 19:55:05,428  INFO [main] LogOut:15 - user enter username and password to login
+2022-10-06 19:55:05,616 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-06 19:55:05,616 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-06 19:55:05,616 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-06 19:55:05,616 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-06 19:55:05,616 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/piyushpandey/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-10-06 19:55:05,629  INFO [main] LogOut:21 - click on wishlist to go to the wishlist section
+2022-10-06 19:55:07,958 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-06 19:55:07,958 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-06 19:55:07,958 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-06 19:55:07,959 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-06 19:55:07,959 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/piyushpandey/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-10-06 19:55:10,979  INFO [main] SetupPage:178 - ----------- quitting the browser ---------------
+2022-10-06 19:58:45,983  INFO [main] SetupPage:40 - getting browser name from properties file
+2022-10-06 19:58:45,999  INFO [main] SetupPage:42 - getting mode from properties file
+2022-10-06 19:58:45,999  INFO [main] SetupPage:50 - run tests in non-headless mode
+2022-10-06 19:58:45,999  INFO [main] SetupPage:54 - opening  chrome browser
+2022-10-06 19:58:47,953  INFO [main] SetupPage:112 - maximizing the window
+2022-10-06 19:58:48,081  INFO [main] SetupPage:116 - deleting the cookies
+2022-10-06 19:58:48,147  INFO [main] SetupPage:121 - open the base url
+2022-10-06 19:59:31,610  INFO [main] AboutUs:16 - Generating the extent report
+2022-10-06 19:59:31,626  INFO [main] AboutUs:21 - click on the cross button
+2022-10-06 19:59:31,693  INFO [main] AboutUs:23 - click on the about us to go to about us page
+2022-10-06 19:59:32,285 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-06 19:59:32,286 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-06 19:59:32,288 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-06 19:59:32,289 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-06 19:59:32,289 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/piyushpandey/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-10-06 19:59:35,452  INFO [main] SetupPage:178 - ----------- quitting the browser ---------------
+2022-10-06 19:59:36,165  INFO [main] SetupPage:40 - getting browser name from properties file
+2022-10-06 19:59:36,165  INFO [main] SetupPage:42 - getting mode from properties file
+2022-10-06 19:59:36,165  INFO [main] SetupPage:50 - run tests in non-headless mode
+2022-10-06 19:59:36,165  INFO [main] SetupPage:54 - opening  chrome browser
+2022-10-06 19:59:37,271  INFO [main] SetupPage:112 - maximizing the window
+2022-10-06 19:59:37,403  INFO [main] SetupPage:116 - deleting the cookies
+2022-10-06 19:59:37,421  INFO [main] SetupPage:121 - open the base url
+2022-10-06 20:00:21,158  INFO [main] AddToCart:23 - user enter username and password to login
+2022-10-06 20:00:24,353 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-06 20:00:24,353 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-06 20:00:24,353 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-06 20:00:24,353 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-06 20:00:24,353 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/piyushpandey/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-10-06 20:00:24,369  INFO [main] AddToCart:33 - Generating the extent report
+2022-10-06 20:00:24,369  INFO [main] AddToCart:42 - user search the item
+2022-10-06 20:00:27,515  INFO [main] AddToCart:46 - user add the searched item to cart
+2022-10-06 20:00:27,515  INFO [main] AddToCartPage:33 - click on the product to go to the product page
+2022-10-06 20:00:27,605  INFO [main] AddToCartPage:40 - click add to cart button to add the product in the cart
+2022-10-06 20:00:34,890 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-06 20:00:34,891 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-06 20:00:34,891 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-06 20:00:34,891 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-06 20:00:34,892 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/piyushpandey/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-10-06 20:00:37,923  INFO [main] SetupPage:178 - ----------- quitting the browser ---------------
+2022-10-06 20:00:38,594  INFO [main] SetupPage:40 - getting browser name from properties file
+2022-10-06 20:00:38,594  INFO [main] SetupPage:42 - getting mode from properties file
+2022-10-06 20:00:38,595  INFO [main] SetupPage:50 - run tests in non-headless mode
+2022-10-06 20:00:38,595  INFO [main] SetupPage:54 - opening  chrome browser
+2022-10-06 20:00:39,645  INFO [main] SetupPage:112 - maximizing the window
+2022-10-06 20:00:39,766  INFO [main] SetupPage:116 - deleting the cookies
+2022-10-06 20:00:39,771  INFO [main] SetupPage:121 - open the base url
+2022-10-06 20:01:04,806  INFO [main] Advertise:17 - click on the cross button
+2022-10-06 20:01:04,869 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-06 20:01:04,869 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-06 20:01:04,870 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-06 20:01:04,870 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-06 20:01:04,871 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/piyushpandey/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-10-06 20:01:04,894  INFO [main] Advertise:23 - Generating the extent report
+2022-10-06 20:01:04,898  INFO [main] Advertise:28 - click on the advertise to go to advertise page
+2022-10-06 20:01:10,981  INFO [main] Advertise:35 - checking the brand pulse of a brand
+2022-10-06 20:01:13,169 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-06 20:01:13,169 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-06 20:01:13,170 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-06 20:01:13,170 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-06 20:01:13,171 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/piyushpandey/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-10-06 20:01:16,195  INFO [main] SetupPage:178 - ----------- quitting the browser ---------------
+2022-10-06 20:01:16,882  INFO [main] SetupPage:40 - getting browser name from properties file
+2022-10-06 20:01:16,882  INFO [main] SetupPage:42 - getting mode from properties file
+2022-10-06 20:01:16,882  INFO [main] SetupPage:50 - run tests in non-headless mode
+2022-10-06 20:01:16,882  INFO [main] SetupPage:54 - opening  chrome browser
+2022-10-06 20:01:18,045  INFO [main] SetupPage:112 - maximizing the window
+2022-10-06 20:01:18,171  INFO [main] SetupPage:116 - deleting the cookies
+2022-10-06 20:01:18,173  INFO [main] SetupPage:121 - open the base url
+2022-10-06 20:01:19,817  INFO [main] BecomeSeller:18 - Generating the extent report
+2022-10-06 20:01:19,818  INFO [main] BecomeSeller:25 - user enter username and password to login
+2022-10-06 20:01:19,889  INFO [main] SetupPage:40 - getting browser name from properties file
+2022-10-06 20:01:19,889  INFO [main] SetupPage:42 - getting mode from properties file
+2022-10-06 20:01:19,889  INFO [main] SetupPage:50 - run tests in non-headless mode
+2022-10-06 20:01:19,889  INFO [main] SetupPage:54 - opening  chrome browser
+2022-10-06 20:01:21,037  INFO [main] SetupPage:112 - maximizing the window
+2022-10-06 20:01:21,165  INFO [main] SetupPage:116 - deleting the cookies
+2022-10-06 20:01:21,177  INFO [main] SetupPage:121 - open the base url
+2022-10-06 20:01:22,397  INFO [main] Travel:19 - click on the cross button
+2022-10-06 20:01:22,443  INFO [main] SetupPage:40 - getting browser name from properties file
+2022-10-06 20:01:22,444  INFO [main] SetupPage:42 - getting mode from properties file
+2022-10-06 20:01:22,444  INFO [main] SetupPage:50 - run tests in non-headless mode
+2022-10-06 20:01:22,444  INFO [main] SetupPage:54 - opening  chrome browser
+2022-10-06 20:01:23,550  INFO [main] SetupPage:112 - maximizing the window
+2022-10-06 20:01:23,678  INFO [main] SetupPage:116 - deleting the cookies
+2022-10-06 20:01:23,682  INFO [main] SetupPage:121 - open the base url
+2022-10-06 20:01:25,043  INFO [main] SetupPage:12 - Generating the extent report
+2022-10-06 20:01:25,047  INFO [main] CarouselPage:30 - click pn the cross button
+2022-10-06 20:01:25,084  INFO [main] SetupPage:40 - getting browser name from properties file
+2022-10-06 20:01:25,085  INFO [main] SetupPage:42 - getting mode from properties file
+2022-10-06 20:01:25,085  INFO [main] SetupPage:50 - run tests in non-headless mode
+2022-10-06 20:01:25,085  INFO [main] SetupPage:54 - opening  chrome browser
+2022-10-06 20:01:26,233  INFO [main] SetupPage:112 - maximizing the window
+2022-10-06 20:01:26,350  INFO [main] SetupPage:116 - deleting the cookies
+2022-10-06 20:01:26,357  INFO [main] SetupPage:121 - open the base url
+2022-10-06 20:01:28,864  INFO [main] SetupPage:40 - getting browser name from properties file
+2022-10-06 20:01:28,865  INFO [main] SetupPage:42 - getting mode from properties file
+2022-10-06 20:01:28,865  INFO [main] SetupPage:50 - run tests in non-headless mode
+2022-10-06 20:01:28,865  INFO [main] SetupPage:54 - opening  chrome browser
+2022-10-06 20:01:29,981  INFO [main] SetupPage:112 - maximizing the window
+2022-10-06 20:01:30,102  INFO [main] SetupPage:116 - deleting the cookies
+2022-10-06 20:01:30,118  INFO [main] SetupPage:121 - open the base url
+2022-10-06 20:01:32,067  INFO [main] Coupons:15 - user enter username and password to login
+2022-10-06 20:01:32,099  INFO [main] SetupPage:40 - getting browser name from properties file
+2022-10-06 20:01:32,099  INFO [main] SetupPage:42 - getting mode from properties file
+2022-10-06 20:01:32,099  INFO [main] SetupPage:50 - run tests in non-headless mode
+2022-10-06 20:01:32,099  INFO [main] SetupPage:54 - opening  chrome browser
+2022-10-06 20:01:33,170  INFO [main] SetupPage:112 - maximizing the window
+2022-10-06 20:01:33,305  INFO [main] SetupPage:116 - deleting the cookies
+2022-10-06 20:01:33,310  INFO [main] SetupPage:121 - open the base url
+2022-10-06 20:31:07,018  INFO [main] SetupPage:40 - getting browser name from properties file
+2022-10-06 20:31:07,018  INFO [main] SetupPage:42 - getting mode from properties file
+2022-10-06 20:31:07,018  INFO [main] SetupPage:50 - run tests in non-headless mode
+2022-10-06 20:31:07,018  INFO [main] SetupPage:54 - opening  chrome browser
+2022-10-06 20:31:09,018  INFO [main] SetupPage:112 - maximizing the window
+2022-10-06 20:31:09,151  INFO [main] SetupPage:116 - deleting the cookies
+2022-10-06 20:31:09,224  INFO [main] SetupPage:121 - open the base url
+2022-10-06 20:31:37,405  INFO [main] AboutUs:16 - Generating the extent report
+2022-10-06 20:31:37,425  INFO [main] AboutUs:21 - click on the cross button
+2022-10-06 20:31:37,488  INFO [main] AboutUs:23 - click on the about us to go to about us page
+2022-10-06 20:31:38,189 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-06 20:31:38,189 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-06 20:31:38,189 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-06 20:31:38,196 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-06 20:31:38,196 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/piyushpandey/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-10-06 20:31:41,353  INFO [main] SetupPage:178 - ----------- quitting the browser ---------------
+2022-10-06 20:31:42,071  INFO [main] SetupPage:40 - getting browser name from properties file
+2022-10-06 20:31:42,071  INFO [main] SetupPage:42 - getting mode from properties file
+2022-10-06 20:31:42,072  INFO [main] SetupPage:50 - run tests in non-headless mode
+2022-10-06 20:31:42,072  INFO [main] SetupPage:54 - opening  chrome browser
+2022-10-06 20:31:43,146  INFO [main] SetupPage:112 - maximizing the window
+2022-10-06 20:31:43,272  INFO [main] SetupPage:116 - deleting the cookies
+2022-10-06 20:31:43,272  INFO [main] SetupPage:121 - open the base url
+2022-10-06 20:32:38,402  INFO [main] AddToCart:23 - user enter username and password to login
+2022-10-06 20:32:41,594 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-06 20:32:41,594 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-06 20:32:41,594 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-06 20:32:41,594 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-06 20:32:41,594 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/piyushpandey/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-10-06 20:32:41,627  INFO [main] AddToCart:33 - Generating the extent report
+2022-10-06 20:32:41,627  INFO [main] AddToCart:42 - user search the item
+2022-10-06 20:32:44,776  INFO [main] AddToCart:46 - user add the searched item to cart
+2022-10-06 20:32:44,776  INFO [main] AddToCartPage:33 - click on the product to go to the product page
+2022-10-06 20:32:44,865  INFO [main] AddToCartPage:40 - click add to cart button to add the product in the cart
+2022-10-06 20:32:54,618 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-06 20:32:54,618 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-06 20:32:54,618 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-06 20:32:54,618 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-06 20:32:54,619 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/piyushpandey/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-10-06 20:32:57,646  INFO [main] SetupPage:178 - ----------- quitting the browser ---------------
+2022-10-06 20:32:58,300  INFO [main] SetupPage:40 - getting browser name from properties file
+2022-10-06 20:32:58,300  INFO [main] SetupPage:42 - getting mode from properties file
+2022-10-06 20:32:58,300  INFO [main] SetupPage:50 - run tests in non-headless mode
+2022-10-06 20:32:58,300  INFO [main] SetupPage:54 - opening  chrome browser
+2022-10-06 20:32:59,413  INFO [main] SetupPage:112 - maximizing the window
+2022-10-06 20:32:59,535  INFO [main] SetupPage:116 - deleting the cookies
+2022-10-06 20:32:59,542  INFO [main] SetupPage:121 - open the base url
+2022-10-06 20:34:41,441  INFO [main] SetupPage:40 - getting browser name from properties file
+2022-10-06 20:34:41,456  INFO [main] SetupPage:42 - getting mode from properties file
+2022-10-06 20:34:41,457  INFO [main] SetupPage:50 - run tests in non-headless mode
+2022-10-06 20:34:41,457  INFO [main] SetupPage:64 - loading edge browser
+2022-10-06 20:34:43,517  INFO [main] SetupPage:112 - maximizing the window
+2022-10-06 20:34:43,644  INFO [main] SetupPage:116 - deleting the cookies
+2022-10-06 20:34:43,710  INFO [main] SetupPage:121 - open the base url
+2022-10-06 20:35:26,342  INFO [main] AboutUs:16 - Generating the extent report
+2022-10-06 20:35:26,354  INFO [main] AboutUs:21 - click on the cross button
+2022-10-06 20:35:26,435  INFO [main] AboutUs:23 - click on the about us to go to about us page
+2022-10-06 20:35:27,153 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-06 20:35:27,156 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-06 20:35:27,157 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-06 20:35:27,158 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-06 20:35:27,158 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/piyushpandey/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-10-06 20:35:30,278  INFO [main] SetupPage:178 - ----------- quitting the browser ---------------
+2022-10-06 20:35:31,069  INFO [main] SetupPage:40 - getting browser name from properties file
+2022-10-06 20:35:31,069  INFO [main] SetupPage:42 - getting mode from properties file
+2022-10-06 20:35:31,069  INFO [main] SetupPage:50 - run tests in non-headless mode
+2022-10-06 20:35:31,069  INFO [main] SetupPage:64 - loading edge browser
+2022-10-06 20:35:32,139  INFO [main] SetupPage:112 - maximizing the window
+2022-10-06 20:35:32,264  INFO [main] SetupPage:116 - deleting the cookies
+2022-10-06 20:35:32,270  INFO [main] SetupPage:121 - open the base url
+2022-10-06 20:37:31,658  INFO [main] SetupPage:40 - getting browser name from properties file
+2022-10-06 20:37:31,662  INFO [main] SetupPage:42 - getting mode from properties file
+2022-10-06 20:37:31,662  INFO [main] SetupPage:73 - run tests in headless mode
+2022-10-06 20:37:35,248  INFO [main] SetupPage:112 - maximizing the window
+2022-10-06 20:37:35,371  INFO [main] SetupPage:116 - deleting the cookies
+2022-10-06 20:37:35,450  INFO [main] SetupPage:121 - open the base url
+2022-10-06 20:38:21,771  INFO [main] AboutUs:16 - Generating the extent report
+2022-10-06 20:38:21,771  INFO [main] AboutUs:21 - click on the cross button
+2022-10-06 20:38:21,849  INFO [main] AboutUs:23 - click on the about us to go to about us page
+2022-10-06 20:38:22,626 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-06 20:38:22,627 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-06 20:38:22,628 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-06 20:38:22,629 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-06 20:38:22,629 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/piyushpandey/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-10-06 20:38:25,745  INFO [main] SetupPage:178 - ----------- quitting the browser ---------------
+2022-10-06 20:38:26,415  INFO [main] SetupPage:40 - getting browser name from properties file
+2022-10-06 20:38:26,415  INFO [main] SetupPage:42 - getting mode from properties file
+2022-10-06 20:38:26,415  INFO [main] SetupPage:73 - run tests in headless mode
+2022-10-06 20:38:29,123  INFO [main] SetupPage:112 - maximizing the window
+2022-10-06 20:38:29,233  INFO [main] SetupPage:116 - deleting the cookies
+2022-10-06 20:38:29,265  INFO [main] SetupPage:121 - open the base url
+2022-10-06 23:06:31,173  INFO [main] SetupPage:55 - getting browser name from properties file
+2022-10-06 23:06:31,181  INFO [main] SetupPage:57 - getting mode from properties file
+2022-10-06 23:06:31,181  INFO [main] SetupPage:86 - run tests in headless mode
+2022-10-06 23:06:35,893  INFO [main] SetupPage:125 - maximizing the window
+2022-10-06 23:06:36,020  INFO [main] SetupPage:129 - deleting the cookies
+2022-10-06 23:06:36,172  INFO [main] SetupPage:134 - open the base url
+2022-10-06 23:07:00,064  INFO [main] SetupPage:55 - getting browser name from properties file
+2022-10-06 23:07:00,065  INFO [main] SetupPage:57 - getting mode from properties file
+2022-10-06 23:07:00,065  INFO [main] SetupPage:64 - run tests in non-headless mode
+2022-10-06 23:07:00,071  INFO [main] SetupPage:78 - loading edge browser
+2022-10-06 23:07:04,353  INFO [main] SetupPage:125 - maximizing the window
+2022-10-06 23:07:04,478  INFO [main] SetupPage:129 - deleting the cookies
+2022-10-06 23:07:04,561  INFO [main] SetupPage:134 - open the base url
+2022-10-06 23:08:00,281  INFO [main] SetupPage:13 - Generating the extent report
+2022-10-06 23:08:00,323  INFO [main] SetupPage:20 - user enter username and password to login
+2022-10-06 23:08:00,850  INFO [main] SetupPage:22 - user is logged in 
+2022-10-06 23:08:00,940 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-06 23:08:00,940 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-06 23:08:00,948 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-06 23:08:00,948 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-06 23:08:00,948 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/piyushpandey/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-10-06 23:08:04,466  INFO [main] SetupPage:190 - ----------- quitting the browser ---------------
+2022-10-07 10:59:24,825  INFO [main] SetupPage:55 - getting browser name from properties file
+2022-10-07 10:59:24,835  INFO [main] SetupPage:57 - getting mode from properties file
+2022-10-07 10:59:24,835  INFO [main] SetupPage:64 - run tests in non-headless mode
+2022-10-07 10:59:24,835  INFO [main] SetupPage:78 - loading edge browser
+2022-10-07 10:59:28,639  INFO [main] SetupPage:125 - maximizing the window
+2022-10-07 10:59:28,774  INFO [main] SetupPage:129 - deleting the cookies
+2022-10-07 10:59:28,853  INFO [main] SetupPage:134 - open the base url
+2022-10-07 11:00:12,249  INFO [main] BecomeSeller:18 - Generating the extent report
+2022-10-07 11:00:12,266  INFO [main] BecomeSeller:25 - user enter username and password to login
+2022-10-07 11:00:12,455  INFO [main] BecomeSeller:27 - user is logged in 
+2022-10-07 11:00:14,496 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-07 11:00:14,496 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-07 11:00:14,496 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-07 11:00:14,496 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-07 11:00:14,496 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/piyushpandey/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-10-07 11:00:14,645  INFO [main] BecomeSeller:34 - user goes to the become seller page
+2022-10-07 11:00:17,905 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-07 11:00:17,905 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-07 11:00:17,905 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-07 11:00:17,905 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-07 11:00:17,906 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/piyushpandey/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-10-07 11:00:20,947  INFO [main] SetupPage:190 - ----------- quitting the browser ---------------
+2022-10-07 11:02:16,817  INFO [main] SetupPage:55 - getting browser name from properties file
+2022-10-07 11:02:16,820  INFO [main] SetupPage:57 - getting mode from properties file
+2022-10-07 11:02:16,820  INFO [main] SetupPage:64 - run tests in non-headless mode
+2022-10-07 11:02:16,820  INFO [main] SetupPage:78 - loading edge browser
+2022-10-07 11:02:20,358  INFO [main] SetupPage:125 - maximizing the window
+2022-10-07 11:02:20,490  INFO [main] SetupPage:129 - deleting the cookies
+2022-10-07 11:02:20,547  INFO [main] SetupPage:134 - open the base url
+2022-10-07 11:03:16,072  INFO [main] Cart:16 - user click on the cart to go to cart section
+2022-10-07 11:03:16,148 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-07 11:03:16,150 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-07 11:03:16,152 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-07 11:03:16,152 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-07 11:03:16,153 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/piyushpandey/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-10-07 11:03:19,319  INFO [main] SetupPage:190 - ----------- quitting the browser ---------------
+2022-10-07 12:29:59,820  INFO [main] SetupPage:55 - reading browser name from properties file
+2022-10-07 12:29:59,823  INFO [main] SetupPage:57 - reading mode from properties file
+2022-10-07 12:29:59,824  INFO [main] SetupPage:64 - run tests in non-headless mode
+2022-10-07 12:29:59,824  INFO [main] SetupPage:78 - loading edge browser
+2022-10-07 12:30:03,009  INFO [main] SetupPage:125 - maximizing the window
+2022-10-07 12:30:03,129  INFO [main] SetupPage:129 - deleting the cookies
+2022-10-07 12:30:03,224  INFO [main] SetupPage:134 - open the base url
+2022-10-07 12:30:26,631  INFO [main] Cart:16 - user click on the cart to go to cart section
+2022-10-07 12:30:26,704 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-07 12:30:26,705 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-07 12:30:26,707 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-07 12:30:26,708 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-07 12:30:26,708 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/piyushpandey/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-10-07 12:30:29,885  INFO [main] SetupPage:168 - ----------- quitting the browser ---------------
+2022-10-07 15:05:33,564  INFO [main] SetupPage:54 - reading browser name from properties file
+2022-10-07 15:05:33,568  INFO [main] SetupPage:56 - reading mode from properties file
+2022-10-07 15:05:33,568  INFO [main] SetupPage:63 - run tests in non-headless mode
+2022-10-07 15:05:33,568  INFO [main] SetupPage:77 - loading edge browser
+2022-10-07 15:05:37,779  INFO [main] SetupPage:124 - maximizing the window
+2022-10-07 15:05:37,919  INFO [main] SetupPage:128 - deleting the cookies
+2022-10-07 15:05:38,045  INFO [main] SetupPage:133 - open the base url
+2022-10-07 15:06:36,620  INFO [main] FailedTest:15 - Generating the extent report
+2022-10-07 15:06:36,622  INFO [main] FailedTest:18 - cross clicked
+2022-10-07 15:06:38,026 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-10-07 15:06:38,028 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-10-07 15:06:38,030 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-10-07 15:06:38,031 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-10-07 15:06:38,033 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/piyushpandey/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-10-07 15:06:41,425  INFO [main] SetupPage:167 - ----------- quitting the browser ---------------
